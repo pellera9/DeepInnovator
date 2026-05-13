@@ -8,12 +8,12 @@ json-numpy
 jsonlines
 matplotlib
 rich
-sentencepiece==0.1.99
+sentencepiece==0.2.1
 # dlimp @ git+https://github.com/moojink/dlimp_openvla
-diffusers==0.30.3
+diffusers==0.38.0
 imageio
 uvicorn
 fastapi
 json-numpy
 wandb==0.19.11
-protobuf==3.20.3
+protobuf==5.29.6
